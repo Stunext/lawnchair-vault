@@ -1,4 +1,4 @@
-package com.stunext.lchiddenapps
+package com.stunext.vault
 
 import android.content.Context
 import androidx.datastore.preferences.core.edit

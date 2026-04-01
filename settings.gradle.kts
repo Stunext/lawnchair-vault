@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "lchiddenapps"
+rootProject.name = "Vault"
 include(":app")

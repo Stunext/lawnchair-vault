@@ -1,4 +1,4 @@
-package com.stunext.lchiddenapps.ui.theme
+package com.stunext.vault.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

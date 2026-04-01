@@ -1,4 +1,4 @@
-package com.stunext.lchiddenapps
+package com.stunext.vault
 
 import android.content.Context
 import android.content.Intent
@@ -36,7 +36,7 @@ import androidx.fragment.app.FragmentActivity
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.stunext.lchiddenapps.ui.theme.LchiddenappsTheme
+import com.stunext.vault.ui.theme.VaultTheme
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 
@@ -56,7 +56,7 @@ class MainActivity : FragmentActivity() {
         enableEdgeToEdge()
 
         setContent {
-            LchiddenappsTheme {
+            VaultTheme {
                 var isAuthenticated by remember { mutableStateOf(false) }
 
                 LaunchedEffect(Unit) {

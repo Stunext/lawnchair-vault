@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.stunext.lchiddenapps"
+    namespace = "com.stunext.vault"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.stunext.lchiddenapps"
+        applicationId = "com.stunext.vault"
         minSdk = 28
         targetSdk = 36
         versionCode = 1
