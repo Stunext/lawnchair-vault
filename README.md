@@ -40,6 +40,10 @@ Clone the repository and build using Android Studio:
 git clone https://github.com/Stunext/lawnchair-vault.git
 ```
 
+Or you can use a build from the releases page
+
+https://github.com/Stunext/lawnchair-vault/releases
+
 ## Contributing
 
 Contributions, bug reports, and feature requests are welcome! 
